@@ -1,46 +1,190 @@
 [
-    {
-      "palabra": "a",
-      "significado": "ra; mata; kat; bâk; bilara; wal; purara; mata"
-    },
-    {
-      "palabra": "¡a ver!",
-      "significado": "¡kapu!"
-    },
-    {
-      "palabra": "abacería",
-      "significado": "plun atkaia pliska o watla"
-    },
-    {
-      "palabra": "abaco",
-      "significado": "kulki kaikaia dusa kum"
-    },
-    {
-      "palabra": "abajo",
-      "significado": "munhtara; mununhtara; mâya; mayara; tasba mapa ra; maikara"
-    },
-    {
-      "palabra": "abalanzar",
-      "significado": "lulkaia; tukbaia"
-    },
-    {
-      "palabra": "abalanzarse",
-      "significado": "istikira mapara waia; plapi purara waia"
-    },
-    {
-      "palabra": "abalorio",
-      "significado": "lilura; lilura mâ"
-    },
-    {
-      "palabra": "abanderado",
-      "significado": "plakin twatwilkra"
-    },
-    {
-      "palabra": "abandonado",
-      "significado": "lulkan; lulki swin; âuya tikan; tnaya ralaki swin"
-    },
-    {
-      "palabra": "abandonamiento",
-      "significado": "lulki swiaia lâka"
-    }
-  ]
+  {
+    "palabra": "a",
+    "significado": "ra; mata; kat; bâk; bilara; wal; purara; mata"
+  },
+  {
+    "palabra": "¡a ver!",
+    "significado": "¡kapu!"
+  },
+  {
+    "palabra": "abacería",
+    "significado": "plun atkaia pliska o watla"
+  },
+  {
+    "palabra": "abaco",
+    "significado": "kulki kaikaia dusa kum"
+  },
+  {
+    "palabra": "abajo",
+    "significado": "munhtara; mununhtara; mâya; mayara; tasba mapa ra; maikara"
+  },
+  {
+    "palabra": "abalanzar",
+    "significado": "lulkaia; tukbaia"
+  },
+  {
+    "palabra": "abalanzarse",
+    "significado": "istikira mapara waia; plapi purara waia"
+  },
+  {
+    "palabra": "abalorio",
+    "significado": "lilura; lilura mâ"
+  },
+  {
+    "palabra": "abanderado",
+    "significado": "plakin twatwilkra"
+  },
+  {
+    "palabra": "abandonado",
+    "significado": "lulkan; lulki swin; âuya tikan; tnaya ralaki swin"
+  },
+  {
+    "palabra": "abandonamiento",
+    "significado": "lulki swiaia lâka"
+  },
+  {
+    "palabra": "abandonar",
+    "significado": "swiaia; lulki swiaia; sait ra laki swiaia; ban pali swiaia; mahka swiaia; lanhkaia; ban swapni taki yaia"
+  },
+  {
+    "palabra": "abandono",
+    "significado": "lulki swin lâka; lulki swiaia lâka"
+  },
+  {
+    "palabra": "abanicar",
+    "significado": "balhbaia; palhbaia"
+  },
+  {
+    "palabra": "abanico",
+    "significado": "pâsa balhbaika; pâsa yabaika; kauhlayabaia dukia; palhbaika; balhbaika"
+  },
+  {
+    "palabra": "abaratar",
+    "significado": "sipar daukaia; praiska lahbaia"
+  },
+  {
+    "palabra": "abarcar",
+    "significado": "wisingbaia; klubi alkaia; bilara auhbaia; auhbi briaia"
+  },
+  {
+    "palabra": "abastecer",
+    "significado": "diara yabaia; auhbi yaia; auhbaia; diaraauhbaia; plun o dîa dîa ni yaia; auhbiyaia; dihbaia"
+  },
+  {
+    "palabra": "abastecimiento",
+    "significado": "diara saki yabaia tânka"
+  },
+  {
+    "palabra": "abasto",
+    "significado": "plun o dîa dîa piaia dukia, diara wala sin; plun; diara"
+  },
+  {
+    "palabra": "abatido",
+    "significado": "kupia slinh (sling); mayara yaba; aisawan; bahki prukan; pura luan; batakan; kupia sari"
+  },
+  {
+    "palabra": "abatir",
+    "significado": "batakaia; umpira baku daukaia"
+  },
+  {
+    "palabra": "abatirse",
+    "significado": "mayara iwaia; aimakupaia; kauhaia"
+  },
+  {
+    "palabra": "abdicación",
+    "significado": "warkka wina sakanka; lulki swinka"
+  },
+  {
+    "palabra": "abdicar",
+    "significado": "warkka wina sakaia; ai warkka o ai tronkaswiaia"
+  },
+  {
+    "palabra": "abdomen",
+    "significado": "(wan) biara; upla o daiwan biara; pura tani"
+  },
+  {
+    "palabra": "abdominal",
+    "significado": "biara dukia; biara bri"
+  },
+  {
+    "palabra": "abeja",
+    "significado": "nasma yula sâtka; nasma sâtka nani"
+  },
+  {
+    "palabra": "abejar",
+    "significado": "nasma watla"
+  },
+  {
+    "palabra": "abejarrón",
+    "significado": "nasma tarka"
+  },
+  {
+    "palabra": "abejuelo",
+    "significado": "nasma yula sirpi"
+  },
+  {
+    "palabra": "aberración",
+    "significado": "aimahwakanka; mistik takanka"
+  },
+  {
+    "palabra": "aberrar",
+    "significado": "aimahwakaia; mistik takaia"
+  },
+  {
+    "palabra": "abertura",
+    "significado": "unta kumi; bîla ba; kwâkanka; kwawanka; ilingwanka; bîla kwawanka o kwâkanka; unta klauhban; dîa dîa bîla; unta"
+  },
+  {
+    "palabra": "abiertamente",
+    "significado": "param pali; param lâka ra"
+  },
+  {
+    "palabra": "abierto",
+    "significado": "param; kwawan; ilingwan; pah; kwâkan; latan; prakan apia"
+  },
+  {
+    "palabra": "abigotado",
+    "significado": "unmaira; unmayira; unmaya ailal bri"
+  },
+  {
+    "palabra": "abismal",
+    "significado": "tihu tara o pakni tara dukia"
+  },
+  {
+    "palabra": "abismo",
+    "significado": "albanhka; albanhkia; tihmu tara pliska; albangkia; nina palas; tuhunal; tihu tara; pakni tara; mununhta âpu dukia"
+  },
+  {
+    "palabra": "abjurar",
+    "significado": "lulki swiaia; swer taki lulki swiaia"
+  },
+  {
+    "palabra": "ablandar",
+    "significado": "swapni daukaia; kupia swapni daukaia; lalalni daukaia; diara kum swapnidaukaia"
+  },
+  {
+    "palabra": "ablución",
+    "significado": "sikbanka; lî ni klin daukanka"
+  },
+  {
+    "palabra": "abnegación",
+    "significado": "on ai wîna kulkras ba"
+  },
+  {
+    "palabra": "abnegado",
+    "significado": "ai wîna kulkras diara dauki ba"
+  },
+  {
+    "palabra": "abnegar",
+    "significado": "apia wih lulki swiaia; ai kupia lâka raswiaia"
+  },
+  {
+    "palabra": "abocar",
+    "significado": "bîla ni alkaia; bîla kwâki auhbaia"
+  },
+  {
+    "palabra": "abochornado",
+    "significado": "swira daukan; swira takan; lapta angkan"
+  }
+]
